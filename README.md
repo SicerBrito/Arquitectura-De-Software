@@ -172,71 +172,14 @@ Los patrones de diseño son soluciones a problemas comunes en el desarrollo de s
 
 ## 3. ¿Qué son los estilos arquitectónicos? 👨‍💼🏗️
 
-Los estilos arquitectónicos son conjuntos de características que identifican la tendencia artística de una época o de un autor. Estas características pueden incluir elementos como la forma, la estructura, los materiales, los colores y los ornamentos.
+Los estilos arquitectónicos en programación son patrones generales de diseño que se pueden utilizar para estructurar sistemas de software. Estos estilos proporcionan una guía para la selección de componentes, la comunicación entre componentes y la interacción con el entorno.
 
- -  ### Los estilos arquitectónicos se pueden clasificar de varias maneras, incluyendo:
+Los estilos arquitectónicos se pueden clasificar en dos categorías principales:
 
-    - ***Por época:***
-        
-        Los estilos arquitectónicos pueden clasificarse según la época en la que se desarrollaron. Por ejemplo, el estilo gótico se desarrolló en Europa durante la Edad Media, mientras que el estilo moderno se desarrolló en el siglo XX.
+Estilos arquitectónicos de composición: Estos estilos se basan en la composición de componentes para crear un sistema. Los componentes pueden ser módulos, objetos o servicios.
+Estilos arquitectónicos de distribución: Estos estilos se basan en la distribución de componentes en diferentes máquinas.
 
-        ---
-
-    - ***Por región:***
-        
-        Los estilos arquitectónicos también pueden clasificarse según la región en la que se desarrollaron. Por ejemplo, el estilo mudéjar se desarrolló en la península ibérica durante la Edad Media, mientras que el estilo colonial se desarrolló en América durante el período colonial.
-
-        ---
-
-    - ***Por autor:***
-        
-        Los estilos arquitectónicos también pueden clasificarse según el autor que los desarrolló. Por ejemplo, el estilo de Frank Lloyd Wright se caracteriza por sus formas orgánicas y sus espacios 
-        abiertos.
-
-        ---
-
- -  ### Algunos ejemplos de estilos arquitectónicos incluyen:
-
-    - ***Arquitectura clásica:***
-        
-        Este estilo se caracteriza por sus formas simétricas y proporciones equilibradas.
-
-        ---
-
-    - ***Arquitectura gótica:***
-        
-        Este estilo se caracteriza por sus arcos apuntados, sus vitrales y sus torres altas.
-
-        ---
-
-    - ***Arquitectura renacentista:***
-        
-        Este estilo se caracteriza por su énfasis en la proporción, la simetría y la perspectiva.
-
-        ---
-
-    - ***Arquitectura barroca:***
-        
-        Este estilo se caracteriza por su uso de líneas curvas, ornamentos exuberantes y efectos dramáticos.
-
-        ---
-
-    - ***Arquitectura neoclásica:***
-        
-        Este estilo se caracteriza por su resurgimiento de los principios de la arquitectura clásica.
-
-        ---
-
-    - ***Arquitectura modernista:***
-        
-        Este estilo se caracteriza por su énfasis en la funcionalidad, la simplicidad y la pureza de formas.
-
-        ---
-        
-Los estilos arquitectónicos pueden tener un impacto significativo en el aspecto y la sensación de un edificio. También pueden reflejar las ideas y valores de la época o la región en la que se desarrollaron.
-
->***Importancia de los estilos arquitectónicos***  
->Los estilos arquitectónicos son importantes por varias razones. En primer lugar, pueden ayudarnos a comprender la historia y la cultura de una época o región. En segundo lugar, pueden inspirarnos a crear nuevos diseños arquitectónicos. En tercer lugar, pueden ayudarnos a apreciar la belleza y la complejidad de la arquitectura.
+![img](https://user-images.githubusercontent.com/31961588/273671383-ded4fc19-ef72-4c8f-bf8b-edff99344e78.png)
 
 ---
 
