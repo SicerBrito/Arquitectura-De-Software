@@ -58,6 +58,8 @@ La arquitectura de software se refiere a la estructura y diseño de un programa 
 
 Los patrones de diseño son soluciones a problemas comunes en el desarrollo de software. Son soluciones que han sido probadas y utilizadas por otros desarrolladores, y que se han demostrado que son efectivas. Estas soluciones son desarrolladas y compartidas por la comunidad de desarrollo de software para ayudar a los programadores a abordar problemas recurrentes de manera eficiente y efectiva.
 
+![aaa](https://user-images.githubusercontent.com/31961588/273664281-a1926874-7e0c-4f35-bb59-eaa8c749eb65.png)
+
  - Los patrones de diseño se clasifican en tres categorías principales:
 
      - ***Creacional:***  
@@ -176,15 +178,187 @@ Los estilos arquitectónicos en programación son patrones generales de diseño 
 
 Los estilos arquitectónicos se pueden clasificar en dos categorías principales:
 
-Estilos arquitectónicos de composición: Estos estilos se basan en la composición de componentes para crear un sistema. Los componentes pueden ser módulos, objetos o servicios.
-Estilos arquitectónicos de distribución: Estos estilos se basan en la distribución de componentes en diferentes máquinas.
+ - ***Estilos arquitectónicos de composición:***
+   
+   Estos estilos se basan en la composición de componentes para crear un sistema. Los componentes pueden ser módulos, objetos o servicios.
 
-![img](https://user-images.githubusercontent.com/31961588/273671383-ded4fc19-ef72-4c8f-bf8b-edff99344e78.png)
+   ---
+
+ - ***Estilos arquitectónicos de distribución:***
+   
+   Estos estilos se basan en la distribución de componentes en diferentes máquinas.
+
+   ---
+
+Los estilos arquitectónicos son importantes por las siguientes razones:
+
+ - Ayudan a garantizar que el sistema cumpla con los requisitos. El estilo arquitectónico debe definir cómo el sistema cumplirá con los requisitos funcionales y no funcionales.
+
+   ---
+
+ - Mejoran la calidad del sistema. Un buen estilo arquitectónico puede ayudar a mejorar el rendimiento, la escalabilidad, la facilidad de mantenimiento y otros atributos de calidad.
+
+   ---
+
+ - Reducen los costos de desarrollo y mantenimiento. Un estilo arquitectónico bien diseñado puede hacer que el sistema sea más fácil de desarrollar, mantener y actualizar.
+
+   ---
+
+Los estilos arquitectónicos son una herramienta importante para el desarrollo de sistemas de software exitosos. Al seleccionar el estilo arquitectónico adecuado, los equipos de desarrollo pueden mejorar la calidad, el rendimiento y la facilidad de mantenimiento de sus sistemas.
+
+
+![Estilo Arquitectonico](https://user-images.githubusercontent.com/31961588/273671383-ded4fc19-ef72-4c8f-bf8b-edff99344e78.png)
 
 ---
 
 ## 4. Patrones de diseño y Patrones arquitectónicos 📉💾
 
+La principal diferencia entre patrones de diseño y patrones arquitectónicos es el nivel de abstracción al que se aplican. Los patrones de diseño se aplican a un nivel más bajo, a la estructura y el comportamiento de clases y objetos individuales. Los patrones arquitectónicos se aplican a un nivel más alto, a la estructura y el comportamiento de sistemas enteros.
+
+En términos prácticos, esto significa que los patrones de diseño se utilizan para resolver problemas específicos en el diseño de software, como la creación de objetos, la composición de objetos o la interacción entre objetos. Los patrones arquitectónicos se utilizan para definir la estructura general de un sistema de software, como la división del sistema en subsistemas, la comunicación entre subsistemas o la escalabilidad del sistema.
+
+![222](https://user-images.githubusercontent.com/31961588/273667021-a4a09ebc-94fc-46b7-aa5a-016ed21a2059.png)
+
 ---
 
 ## 5. Conceptos Ingeneria de Software
+
+La ingeniería de software es una disciplina compleja y en constante evolución. Los conceptos básicos de la ingeniería de software proporcionan una base sólida para el desarrollo de software exitoso que se ocupa del desarrollo de software, desde la concepción hasta la implementación y el mantenimiento.
+
+ - ### Atributos de calidad de software
+
+   Los atributos de calidad de software son las características que determinan la calidad de un sistema de software. Estos atributos pueden clasificarse en dos categorías principales: 
+
+      - atributos funcionales
+         
+         ---
+
+      - atributos no funcionales.
+
+         ---
+
+ - ### Atributos funcionales
+
+   Los atributos funcionales son aquellos que determinan lo que hace un sistema de software. Estos atributos incluyen:
+
+   - Corrección:
+      
+      El sistema cumple con los requisitos funcionales.
+
+      ---
+
+   - Completitud:
+      
+      El sistema incluye todas las funciones necesarias.
+
+      ---
+
+   - Precisión:
+      
+      El sistema produce resultados exactos.
+
+      ---
+
+   - Usabilidad:
+      
+      El sistema es fácil de usar.
+
+      ---
+
+   - Eficiencia:
+      
+      El sistema utiliza los recursos de manera eficiente.
+
+      ---
+
+ - ### Atributos no funcionales
+
+   Los atributos no funcionales son aquellos que determinan cómo funciona un sistema de software. Estos atributos incluyen:
+
+
+   - Requisitos de rendimiento:
+      
+      El sistema debe cumplir con ciertos requisitos de rendimiento, como la velocidad, la respuesta y la capacidad de respuesta.
+
+      ---
+
+   - Requisitos de seguridad:
+      
+      El sistema debe estar protegido de la manipulación, el acceso no autorizado y otros ataques.
+
+      ---
+
+   - Requisitos de confiabilidad:
+      
+      El sistema debe funcionar correctamente durante un período de tiempo determinado.
+
+      ---
+
+   - Requisitos de mantenibilidad:
+      
+      El sistema debe ser fácil de mantener y actualizar.
+
+      ---
+
+   - Requisitos de portabilidad:
+      
+      El sistema debe poder ejecutarse en diferentes plataformas y entornos.
+
+      ---
+
+ - ### Acoplamiento y cohesión
+
+   El acoplamiento y la cohesión son dos conceptos relacionados con la estructura de un sistema de software.
+
+   - #### Acoplamiento
+
+      El acoplamiento es el grado de dependencia entre dos unidades de software. Un acoplamiento alto significa que dos unidades de software están fuertemente relacionadas entre sí. Un acoplamiento bajo significa que dos unidades de software están débilmente relacionadas entre sí.
+
+      Un alto acoplamiento puede dificultar el mantenimiento del software, ya que los cambios en una unidad de software pueden requerir cambios en otras unidades de software.
+
+      ---
+
+   - #### Cohesión
+
+      La cohesión es el grado de relación entre las partes de una unidad de software. Una cohesión alta significa que las partes de una unidad de software están estrechamente relacionadas entre sí. Una cohesión baja significa que las partes de una unidad de software están débilmente relacionadas entre sí.
+
+      Una alta cohesión puede facilitar el mantenimiento del software, ya que los cambios en una unidad de software solo requieren cambios en otras partes de la misma unidad de software.
+      
+      ---
+
+ - ### SOLID
+
+   SOLID es un acrónimo que representa cinco principios de diseño de software que promueven la buena calidad del software. Estos principios son:
+
+    - ***S - Single Responsibility Principle (SRP):***
+   
+      Cada clase o función debe tener una sola responsabilidad.
+
+      ---
+
+    - ***O - Open-Closed Principle (OCP):***
+   
+      Un sistema debe ser abierto a la extensión, pero cerrado a la modificación.
+
+      ---
+
+    - ***L - Liskov Substitution Principle (LSP):***
+   
+      Las instancias de clases derivadas deben poder usarse en lugar de instancias de clases base.
+
+      ---
+
+    - ***I - Interface Segregation Principle (ISP):***
+   
+      Las interfaces deben ser lo más estrechas posible.
+
+      ---
+
+    - ***D - Dependency Inversion Principle (DIP):***
+   
+      Las clases dependientes no deben depender de clases concretas, sino de interfaces.
+
+      ---
+
+
+   Estos principios pueden ayudar a los desarrolladores de software a crear sistemas de software que sean más fáciles de entender, mantener y modificar.
